@@ -1,0 +1,28 @@
+# Diretórios e arquivos específicos do Node.js
+node_modules/
+
+# Arquivos de configuração do ambiente local
+.env
+
+# Arquivo de lock do npm
+package-lock.json
+yarn.lock
+
+# Diretórios temporários ou de compilação
+dist/
+build/
+tmp/
+
+# Diretórios ou arquivos de logs
+*.log
+logs/
+
+# Arquivos de sistema do VSCode
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+
+# Arquivos de backup
+*.bak
+*.swp
