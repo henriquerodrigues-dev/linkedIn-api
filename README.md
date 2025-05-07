@@ -17,8 +17,8 @@
 
 <ol>
   <li>Clone o repositório:<br/>
-    <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio</code></pre>
+    <pre><code>git clone https://github.com/henriquerodrigues-dev/linkedIn-api.git
+cd linkedIn-api</code></pre>
   </li>
 
   <li>Instale as dependências:<br/>
